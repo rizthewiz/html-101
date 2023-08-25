@@ -1,0 +1,17 @@
+body {
+    max-width: 750px;
+}
+
+.big-img {
+    width: 800px;
+    height: 400px;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+}
+
+footer{
+ text-align: center;
+}
